@@ -32,7 +32,7 @@ Based on how the apps were installed on the environment, here's the recommended 
 
 ## Apps created in your Sandbox environment
 * Be sure to import the changes on your target environment via a managed solution only. See [Import, update, and export solutions](https://docs.microsoft.com/en-us/powerapps/maker/common-data-service/import-update-export-solutions) for guidance on installing an update to an existing managed solution.
-* Modify the app properties by following the steps detailed in [Manage app properties](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/manage-app-properties), and set the Client type to Unified Interface
+* Modify the app properties by following the steps detailed in [Manage app properties](https://docs.microsoft.com/en-us/powerapps/maker/model-driven-apps/manage-app-properties), and set the **Client** type to **Unified Interface**
 * Import the changes to your target environment via a managed solution update.
 
 ## Apps installed from AppSource
